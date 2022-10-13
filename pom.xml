@@ -48,7 +48,7 @@
 
     <scm>
         <url>https://github.com/1yashsharma1/sfg-pet-clinic</url>
-        <connection>https://github.com/1yashsharma1/sfg-pet-clinic.git</connection>
+        <connection>scm:https://github.com/1yashsharma1/sfg-pet-clinic.git</connection>
       <tag>HEAD</tag>
   </scm>
 
