@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Built-By: syash
 Build-Jdk: 17.0.4.1
 Implementation-Title: pet-clinic-web
-Implementation-Version: 0.0.5-SNAPSHOT
+Implementation-Version: 0.0.7-SNAPSHOT
 Implementation-Vendor-Id: guru.springframework
 Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
  -starter-parent/sfg-pet-clinic/pet-clinic-web
