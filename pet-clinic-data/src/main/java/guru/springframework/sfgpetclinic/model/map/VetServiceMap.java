@@ -2,9 +2,12 @@ package guru.springframework.sfgpetclinic.model.map;
 
 import java.util.Set;
 
+import org.springframework.stereotype.Service;
+
 import guru.springframework.sfgpetclinic.model.Vet;
 import guru.springframework.sfgpetclinic.service.VetService;
 
+@Service
 public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetService {
 
     @Override
@@ -22,7 +25,7 @@ public class VetServiceMap extends AbstractMapService<Vet, Long> implements VetS
     @Override
     public Vet save(Vet object) {
 	// TODO Auto-generated method stub
-	return super.save(object.getId(), object);
+	return super.save(object);
     }
 
     @Override
