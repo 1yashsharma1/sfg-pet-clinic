@@ -2,7 +2,9 @@ C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframe
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Speciality.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\springdatajpa\PetTypeSDJpaService.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\repositories\PetTypeRepository.java
+C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\map\OwnerMapService.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\springdatajpa\OwnerSDJpaService.java
+C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\map\VetMapService.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\repositories\VisitRepository.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\PetService.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\repositories\VetRepository.java
@@ -12,11 +14,9 @@ C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframe
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\springdatajpa\VetSDJpaService.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Visit.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\map\VisitMapService.java
-C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\map\VetServiceMap.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\OwnerService.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Pet.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Vet.java
-C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\map\OwnerServiceMap.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\repositories\SpecialityRepository.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\Person.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\repositories\OwnerRepository.java
@@ -25,8 +25,8 @@ C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframe
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\model\PetType.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\springdatajpa\VisitSDJpaService.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\map\SpecialityMapService.java
-C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\map\PetServiceMap.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\PetTypeService.java
+C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\map\PetMapService.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\VetService.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\repositories\PetRepository.java
 C:\Users\syash\git\sfg-pet-clinic\pet-clinic-data\src\main\java\guru\springframework\sfgpetclinic\services\SpecialityService.java
